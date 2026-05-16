@@ -1,3 +1,7 @@
 streamlit
 pandas
 ydata-profiling
+visions
+numba
+phik
+htmlmin
